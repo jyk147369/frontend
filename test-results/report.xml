@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="7.5">
+  <testsuite name="회원가입" errors="0" failures="0" skipped="0" timestamp="2024-02-20T07:39:24" time="7.388" tests="1">
+    <testcase classname="회원가입 정상 케이스 테스트" name="회원가입 정상 케이스 테스트" time="3.639">
+    </testcase>
+  </testsuite>
+</testsuites>
