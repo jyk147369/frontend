@@ -20,7 +20,7 @@ jobs:
         script: |
           sudo rm -rf frontend
           sudo git clone https://github.com/ddarahakit2023/frontend
-          sudo cd frontend
+          cd frontend
           sudo npm i
           sudo npm run build
           sudo docker build --tag ddarahakit2023/frontend:latest .
